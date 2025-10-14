@@ -5,8 +5,8 @@
 export default function Ex1() {
   return (
     <div className="my-8">
-        <h1 className="text-2xl font-bold mb-4">Ex1 - Botão Estilizado</h1>
-      {/* Resolva aqui */}
+        <h1 className="bg-blue-300 rouded-lg border-4 border-gray-500
+         text-2xl font-bold mb-4 w-50 shadow-2xl rounded-3xl hover:bg-blue-500 ">Ex1 - Botão Estilizado</h1>
     </div>
   );
 }
